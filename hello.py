@@ -11,7 +11,7 @@ class student:
 
 
 s1 = student("张三","001",18)
-s1.grades["语文"] = 1000  
+s1.grades["语文"] = 666666  
 s1.grades["数学"] = 123456
 s1.grades["英语"] = 666
 s1.p()
